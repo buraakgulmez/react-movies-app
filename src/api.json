@@ -1,0 +1,100 @@
+{
+    "movies": [
+        {
+            "id": "1",
+            "title": "Her",
+            "img": "https://a.ltrbxd.com/resized/sm/upload/au/nb/i6/lq/fsoTLnUXEUTNuVCBxAJMY0HPPd-0-500-0-750-crop.jpg?v=16789732be",
+            "description":"In the not so distant future, Theodore, a lonely writer purchases a newly developed operating system designed to meet the user’s every needs. To Theodore’s surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+            "directed" : "Spike Jonze",
+            "year": "2013"
+        },
+        {
+            "id": "2",
+            "title": "Portrait of a Lady on Fire",
+            "img": "https://a.ltrbxd.com/resized/film-poster/4/6/0/8/3/0/460830-portrait-of-a-lady-on-fire-0-1000-0-1500-crop.jpg?v=79b0f67aa9",
+            "description":"DON’T REGRET. REMEMBER. On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+            "directed": "Céline Sciamma",
+            "year": "2019"
+        },
+        {
+            "id": "3",
+            "title": "Aftersun",
+            "img": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-1000-0-1500-crop.jpg?v=5ce2118fca",
+            "description": "MEMORY BURNS. Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between miniDV footage as she tries to reconcile the father she knew with the man she didn’t.",
+            "directed":"Charlotte Wells",
+            "year": "2022"
+        },
+        {
+            "id": "4",
+            "title": "Close",
+            "img": "https://a.ltrbxd.com/resized/film-poster/8/1/2/0/1/5/812015-close-0-1000-0-1500-crop.jpg?v=06927afaf8",
+            "description" :"Thirteen-year-olds Léo and Rémi have always been close, but they drift apart after the intimacy of their relationship is questioned by schoolmates.",
+            "directed":"Lukas Dhont",
+            "year": "2022"
+        },
+        {
+            "id": "5",
+            "title": "The Imitation Game",
+            "img": "https://a.ltrbxd.com/resized/film-poster/1/4/6/9/5/4/146954-the-imitation-game-0-1000-0-1500-crop.jpg?v=818ff18071",
+            "description":"Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain’s top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+            "directed":"Morten Tyldum",
+            "year": "2014"
+        },
+        {
+            "id": "6",
+            "title": "Compartment No. 6",
+            "img": "https://a.ltrbxd.com/resized/film-poster/5/1/6/0/4/8/516048-compartment-no-6-0-1000-0-1500-crop.jpg?v=df9397c47f",
+            "description":"A young Finnish woman escapes an enigmatic love affair in Moscow by boarding a train to the arctic port of Murmansk. Forced to share the long ride and a tiny sleeping car with a larger than life Russian miner, the unexpected encounter leads the occupants of Compartment No. 6 to face major truths about human connection.",
+            "directed":"Juho Kuosmanen",
+            "year": "2021"
+        },
+        {
+            "id": "7",
+            "title": "Petite Maman",
+            "img": "https://a.ltrbxd.com/resized/film-poster/6/6/9/7/4/4/669744-petite-maman-0-1000-0-1500-crop.jpg?v=c7cbed5a06",
+            "description":"Eight-year-old Nelly has just lost her beloved grandmother and is helping her parents clean out her mother’s childhood home. She explores the house and the surrounding woods where her mother used to play and where she built the treehouse Nelly has heard so much about. One day her mother suddenly leaves. That is when Nelly meets a girl of her own age in the woods, building a treehouse.",
+            "directed":"Céline Sciamma",
+            "year": "2021"
+        },
+        {
+            "id":"8",
+            "title": "Spring, Summer, Fall, Winter… and Spring",
+            "img":"https://a.ltrbxd.com/resized/sm/upload/dr/f3/gg/1p/dGb8hlA2nQ88UbLUgsaI5QXiPDC-0-1000-0-1500-crop.jpg?v=80bd479934",
+            "description":"An isolated lake, where an old monk lives in a small floating temple. The monk has a young boy living with him, learning to become a monk. We watch as seasons and years pass by.",
+            "directed":"Kim Ki-duk",
+            "year":"2003"
+        },
+        {
+            "id":"9",
+            "title": "Sound Of Metal",
+            "img":"https://a.ltrbxd.com/resized/film-poster/4/3/2/0/0/4/432004-sound-of-metal-0-1000-0-1500-crop.jpg?v=289acd955b",
+            "description":"A drummer begins to lose his hearing and has to come to grips with a future that will be filled with silence.",
+            "directed":"Darius Marder",
+            "year":"2019"
+        },
+        {
+            "id":"10",
+            "title": "I’m Thinking of Ending Things",
+            "img":"https://a.ltrbxd.com/resized/film-poster/4/3/0/8/0/6/430806-i-m-thinking-of-ending-things-0-1000-0-1500-crop.jpg?v=16bd3ec573",
+            "description":"Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.",
+            "directed":"Charlie Kaufman",
+            "year": "2020"
+        },
+        {
+            "id":"11",
+            "title": "Oslo, August 31st",
+            "img":"https://a.ltrbxd.com/resized/sm/upload/e6/m1/vn/g6/nitgCJ1g0ebztZHG0KwcojWlyPA-0-1000-0-1500-crop.jpg?v=d5466d278c",
+            "description":"One day in the life of Anders, a young recovering drug addict, who takes a brief leave from his treatment center to interview for a job and catch up with old friends in Oslo.",
+            "directed":"Joachim Trier",
+            "year": "2011"
+        },
+        {
+            "id":"12",
+            "title": "Vortex",
+            "img":"https://a.ltrbxd.com/resized/film-poster/7/2/4/3/5/4/724354-vortex-0-1000-0-1500-crop.jpg?v=a6496735d0",
+            "description":"Lui, a struggling author with a heart condition, and his wife Elle, a retired psychiatrist, find their idyllic life shattered when Elle begins to succumb to the effects of dementia.",
+            "directed":"Gaspar Noé",
+            "year": "2021"
+        }
+    ]
+}
